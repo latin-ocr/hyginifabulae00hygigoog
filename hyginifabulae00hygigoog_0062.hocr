@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hyginifabulae00hygigoog_0062.png"; bbox 0 0 3082 4950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 113 1733 1516 1989">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 113 1733 1516 1989">
+     <span class='ocr_line' id='line_1_1' title="bbox 113 1733 1516 1989; baseline -0.011 -37"><span class='ocrx_word' id='word_1_1' title='bbox 113 1821 456 1954; x_wconf 76' lang='lat' dir='ltr'>Fabulamm</span> <span class='ocrx_word' id='word_1_2' title='bbox 507 1818 721 1989; x_wconf 77' lang='lat' dir='ltr'>Hygini</span> <span class='ocrx_word' id='word_1_3' title='bbox 778 1853 874 1987; x_wconf 82' lang='lat' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_4' title='bbox 926 1819 1115 1989; x_wconf 72' lang='lat' dir='ltr'>capita</span> <span class='ocrx_word' id='word_1_5' title='bbox 1169 1733 1342 1953; x_wconf 41' lang='lat' dir='ltr'>index&#39;</span> <span class='ocrx_word' id='word_1_6' title='bbox 1510 1924 1516 1937; x_wconf 85' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1546 4950">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1546 4950">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1546 4950; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1546 4950; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
